@@ -2,5 +2,6 @@
   "acceptedPythonInterpreters": ["PYTHON36"],
   "forceConda": false,
   "installCorePackages": true,
-  "installJupyterSupport": false
+  "installJupyterSupport": false,
+  "basePackagesInstallMethod": "PRE_BUILT"  
 }
